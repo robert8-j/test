@@ -1,6 +1,3 @@
 chanchito feliz1
-<<<<<<< HEAD
-=======
 chanchito en desarrollo
 chachito en desarrollo2
->>>>>>> desarrollo
